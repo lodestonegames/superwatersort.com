@@ -100,8 +100,7 @@ nav a:hover, nav a:focus-visible { color: var(--cyan); }
   border: 1px solid rgb(92 146 186 / 18%);
   border-radius: 46px;
   background:
-    linear-gradient(90deg, rgb(7 17 29 / 82%) 0%, rgb(7 17 29 / 42%) 45%, rgb(7 17 29 / 2%) 80%),
-    url("/assets/celebration-backdrop-v2.webp") 50% 50% / cover no-repeat;
+    linear-gradient(90deg, rgb(7 17 29 / 82%) 0%, rgb(7 17 29 / 42%) 45%, rgb(7 17 29 / 2%) 80%);
   box-shadow: 0 34px 100px rgb(0 0 0 / 28%);
   opacity: .88;
   overflow: hidden;
@@ -274,8 +273,7 @@ h1 span { color: var(--pink); }
   border: 1px solid rgb(77 112 145 / 45%);
   border-radius: 34px;
   background:
-    linear-gradient(180deg, rgb(8 17 29 / 18%), rgb(8 17 29 / 88%)),
-    url("/assets/celebration-backdrop-v2.webp") 68% 50% / cover no-repeat;
+    linear-gradient(180deg, rgb(8 17 29 / 18%), rgb(8 17 29 / 88%));
   box-shadow: var(--shadow);
   overflow: hidden;
 }
